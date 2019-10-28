@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonModule.POST" id="0fc3ade2-8f95-498c-bed4-863698524a3b" configVersion="7397e030729d3f45b7dc27e5ebc628cf00000000"/>
+		<Metadata name="CommonModule.POST.Module" id="0fc3ade2-8f95-498c-bed4-863698524a3b.0" configVersion="02a6f1bd431a884f94f1924945de35b900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3dd9d50c-2190-43cf-90b5-dacf8c7c9311" configVersion="494de9e911fd414584280ab66400440600000000"/>
+		<Metadata name="HTTPService.like_alice" id="d0de76f8-aaab-4d5f-9476-cfafc7111c58" configVersion="1de1b1a034f16e488021c42876f0c90500000000">
+			<Metadata name="HTTPService.like_alice.URLTemplate.ВыполнитьМетод" id="ce00c351-1d69-4f92-83b2-bac90dba7916"/>
+			<Metadata name="HTTPService.like_alice.URLTemplate.ВыполнитьМетод.Method.POST" id="daac6626-cc3a-4414-939f-711f39f48cc6"/>
+		</Metadata>
+		<Metadata name="HTTPService.like_alice.Module" id="d0de76f8-aaab-4d5f-9476-cfafc7111c58.0" configVersion="67b9e4f073823c4f9c68021d0ed0fa8f00000000"/>
+		<Metadata name="InformationRegister.sessionStorage" id="90407f5a-3994-4cb9-a588-0c5a576ee6cc" configVersion="aa8b79ce0aaaea4e997ecaa043681a5c00000000">
+			<Metadata name="InformationRegister.sessionStorage.Resource.suggests" id="6451b087-9770-4f6f-95cf-fadca929edba"/>
+			<Metadata name="InformationRegister.sessionStorage.Dimension.userId" id="ad1a18d3-e75e-4b11-8428-961747d0d5f8"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="f27d4bff-ac04-40bc-bb20-d12c4d98bd90" configVersion="fe58171e65f80e44a53b6ed8bff3ebeb00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
